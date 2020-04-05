@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{351:function(t,n,s){"use strict";s.r(n);var e={data:function(){return{msg:"自定义"}}},i=s(9),a=Object(i.a)(e,(function(){var t=this.$createElement;return(this._self._c||t)("p",{staticClass:"demo"},[this._v("\n  "+this._s(this.msg)+"\n")])}),[],!1,null,null,null);n.default=a.exports}}]);
